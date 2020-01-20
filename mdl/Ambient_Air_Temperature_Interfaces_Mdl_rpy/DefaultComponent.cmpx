@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.831.0</version>
+	<lang>C++</lang>
+	<BuildNo>9835649</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<IComponent type="e">
+			<_id type="a">GUID 6578727e-8680-468f-b0d9-6f7ca7195aff</_id>
+			<_myState type="a">139264</_myState>
+			<_name type="a">DefaultComponent</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.16.2020::12:29:14</_modifiedTime>
+			<m_buildType type="a">Executable</m_buildType>
+			<m_configActive type="r">
+				<ICodeGenConfigInfoHandle type="e">
+					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
+					<_hid type="a">GUID 58622bb5-ba74-48ee-9f89-7c1986cc2c78</_hid>
+				</ICodeGenConfigInfoHandle>
+			</m_configActive>
+			<HandlesInMe type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Default.sbsx</_hfilename>
+							<_hname type="a">Default</_hname>
+							<_hid type="a">GUID eec31529-948b-4b90-8756-29e809ab3818</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</HandlesInMe>
+			<VariationPoints type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</VariationPoints>
+			<SelectedVariants type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</SelectedVariants>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<AggregatesList type="e">
+				<value>GUID fed2499c-d9fd-48ba-8ea2-791cbf15d5c4</value>
+				<value>GUID 58622bb5-ba74-48ee-9f89-7c1986cc2c78</value>
+			</AggregatesList>
+		</IComponent>
+		<IFolder type="e">
+			<_id type="a">GUID fed2499c-d9fd-48ba-8ea2-791cbf15d5c4</_id>
+			<_myState type="a">73728</_myState>
+			<_name type="a">Files</_name>
+			<_modifiedTimeWeak type="a">1.16.2020::12:29:14</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.16.2020::12:29:14</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		<ICodeGenConfigInfo type="e">
+			<_id type="a">GUID 58622bb5-ba74-48ee-9f89-7c1986cc2c78</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DefaultConfig</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.16.2020::12:29:14</_modifiedTime>
+			<_scopeType type="a">Explicit</_scopeType>
+			<_instrumentation type="a">Animation</_instrumentation>
+			<_timeModel type="a">RealTime</_timeModel>
+			<m_generateActors type="a">1</m_generateActors>
+			<_statechartImplementation type="a">Flat</_statechartImplementation>
+			<_checksList type="a">0 ,</_checksList>
+			<ScopeElements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</ScopeElements>
+			<InitialInstances type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</InitialInstances>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<AnimScopeElements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</AnimScopeElements>
+			<m_allInAnimScope type="a">1</m_allInAnimScope>
+			<m_generateUsecases type="a">0</m_generateUsecases>
+			<AggregatesList type="e">
+				<value>GUID 25b44538-c952-4ca0-9f80-1510def7c5d2</value>
+			</AggregatesList>
+		</ICodeGenConfigInfo>
+		<IFolder type="e">
+			<_id type="a">GUID 25b44538-c952-4ca0-9f80-1510def7c5d2</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DefaultConfig</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.16.2020::12:29:14</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
