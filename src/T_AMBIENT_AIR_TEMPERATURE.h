@@ -7,13 +7,10 @@
 /* Allows to model a data representing an ambient air temperature in degree Celsius.*/
 /*
 Unit : °C
-Resolution : 0,5
-Offset : -50
-
-min : -50 °C
-max : 77,5 °C
+Resolution : 0,0625
+Offset : 0
 */
-typedef uint8_t T_AMBIENT_AIR_TEMPERATURE;
+typedef uint16_t T_AMBIENT_AIR_TEMPERATURE;
 
 
 #endif

@@ -25,14 +25,14 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.20.2020::8:55:20</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">2.18.2020::12:34:0</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">This packages gathers interfaces allowing to treat the data of an ambient air temperature sensor.</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">1.20.2020::8:55:20</_modifiedTime>
+			<_modifiedTime type="a">2.18.2020::12:34:0</_modifiedTime>
 			<_lastID type="a">2</_lastID>
-			<weakCGTime type="a">1.20.2020::8:55:20</weakCGTime>
+			<weakCGTime type="a">2.18.2020::12:34:0</weakCGTime>
 			<strongCGTime type="a">1.17.2020::13:31:44</strongCGTime>
 			<_defaultComposite type="s">GUID 43685873-a1ab-4e96-8fb0-7e23853217ff</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -527,10 +527,6 @@
 			<m_displayOption type="a">All</m_displayOption>
 			<m_bShowInherited type="a">0</m_bShowInherited>
 			<m_bOrdered type="a">0</m_bOrdered>
-			<_itemValueOfFontPropertiesMapCount type="a">3</_itemValueOfFontPropertiesMapCount>
-			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
-			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
-			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
 		<IClass type="e">
 			<_id type="a">GUID 43685873-a1ab-4e96-8fb0-7e23853217ff</_id>
@@ -702,19 +698,19 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.17.2020::13:31:36</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">2.18.2020::12:34:0</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">Allows to model a data representing an ambient air temperature in degree Celsius.</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">1.17.2020::13:31:36</_modifiedTime>
+			<_modifiedTime type="a">2.18.2020::12:34:0</_modifiedTime>
 			<_typedefBaseType type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
 					<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
 					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
-					<_hname type="a">uint8</_hname>
-					<_hid type="a">GUID 058963e7-375f-4f57-aceb-5a2f36b75490</_hid>
+					<_hname type="a">sint16</_hname>
+					<_hid type="a">GUID ebb36a0f-a588-4dc2-b4ff-03b59b7f0451</_hid>
 				</IClassifierHandle>
 			</_typedefBaseType>
 			<_typedefMultiplicity type="a">1</_typedefMultiplicity>
@@ -725,7 +721,6 @@
 			<AggregatesList type="e">
 				<value>GUID c4f6a341-8c94-4be7-afd8-128e1cb8eff3</value>
 				<value>GUID 6acb3b1b-35c3-4233-b55e-b766fa107304</value>
-				<value>GUID f170a82e-6cc8-43d9-89b3-a48f1a08da14</value>
 			</AggregatesList>
 		</IType>
 		<ITag type="e">
@@ -767,8 +762,8 @@
 			<_id type="a">GUID 6acb3b1b-35c3-4233-b55e-b766fa107304</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Resolution</_name>
-			<_modifiedTimeWeak type="a">10.26.2019::13:50:2</_modifiedTimeWeak>
-			<_modifiedTime type="a">10.26.2019::13:50:2</_modifiedTime>
+			<_modifiedTimeWeak type="a">2.18.2020::12:34:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.18.2020::12:34:0</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -789,49 +784,14 @@
 				</IHandle>
 			</_base>
 			<AggregatesList type="e">
-				<value>GUID d12a7f26-9f6e-4bb8-9d4c-f8db9fae25be</value>
+				<value>GUID af9be0cc-0948-4746-82a2-b354562e078c</value>
 			</AggregatesList>
 		</ITag>
 		<ILiteralSpecification type="e">
-			<_id type="a">GUID d12a7f26-9f6e-4bb8-9d4c-f8db9fae25be</_id>
-			<_modifiedTimeWeak type="a">10.26.2019::13:50:2</_modifiedTimeWeak>
-			<_modifiedTime type="a">10.26.2019::13:50:2</_modifiedTime>
-			<_value type="a">0,5</_value>
-		</ILiteralSpecification>
-		<ITag type="e">
-			<_id type="a">GUID f170a82e-6cc8-43d9-89b3-a48f1a08da14</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">Offset</_name>
-			<_modifiedTimeWeak type="a">1.17.2020::10:53:8</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.17.2020::10:53:8</_modifiedTime>
-			<_typeOf type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IType</_hm2Class>
-					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
-					<_hname type="a">RhpString</_hname>
-					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
-				</IHandle>
-			</_typeOf>
-			<_isOrdered type="a">0</_isOrdered>
-			<_base type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">ITag</_hm2Class>
-					<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
-					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
-					<_hclass type="a">Physical_Data_Type</_hclass>
-					<_hname type="a">Offset</_hname>
-					<_hid type="a">GUID 229b6c4a-8443-4eb0-8df6-25171f5e377c</_hid>
-				</IHandle>
-			</_base>
-			<AggregatesList type="e">
-				<value>GUID 9b20b11b-4857-4fcc-aa57-279f1d126911</value>
-			</AggregatesList>
-		</ITag>
-		<ILiteralSpecification type="e">
-			<_id type="a">GUID 9b20b11b-4857-4fcc-aa57-279f1d126911</_id>
-			<_modifiedTimeWeak type="a">1.17.2020::10:53:8</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.17.2020::10:53:8</_modifiedTime>
-			<_value type="a">-50</_value>
+			<_id type="a">GUID af9be0cc-0948-4746-82a2-b354562e078c</_id>
+			<_modifiedTimeWeak type="a">2.18.2020::12:34:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.18.2020::12:34:0</_modifiedTime>
+			<_value type="a">0,0625</_value>
 		</ILiteralSpecification>
 		
 	</RHAPSODY-MODEL>
