@@ -1,17 +1,22 @@
 #ifndef T_AMBIENT_AIR_TEMPERATURE_H
 #define T_AMBIENT_AIR_TEMPERATURE_H
 
-#include "stdint.h"
+#include <stdint.h>
 
+/*============================================================================*/
 /* Physical_Data_Type */
-/* Allows to model a data representing an ambient air temperature in degree Celsius.*/
+/*============================================================================*/
 /*
 Unit : °C
 Resolution : 0,0625
 Offset : 0
 */
-typedef int16_t T_AMBIENT_AIR_TEMPERATURE;
+typedef int16_t T_Ambient_Air_Temperature;
 
+
+/*============================================================================*/
+/* Predefined values */
+/*============================================================================*/
 #define TEMPERATURE_0_DEG_CELCIUS 0
 #define TEMPERATURE_0_DOT_5_DEG_CELCIUS 8 /* = 0,5 / 0,0625 */
 #define TEMPERATURE_1_DEG_CELCIUS 16
@@ -31,5 +36,6 @@ typedef int16_t T_AMBIENT_AIR_TEMPERATURE;
 #define TEMPERATURE_25_DEG_CELCIUS 400
 #define TEMPERATURE_30_DEG_CELCIUS 480
 #define TEMPERATURE_40_DEG_CELCIUS 640
+
 
 #endif
